@@ -1,0 +1,3 @@
+It is very important for retail business to identify the similar customers and their shopping characteristics. Thereby, it helps the business in giving appropriate offers to specific customer groups. This work helps the business identify the similar customer groups.
+
+The data is related to the transactions made by customers in an UK based non retail store. Exploratory Data Analysis(EDA) and Feature Engineering has also been used. Clustering model Kmeans has been implemented to cluster the customers. The optimum number of clusters are chosen by plotting the elbow plot. The clusters are visualized in 3D using Plotly and Seaborn packages.
